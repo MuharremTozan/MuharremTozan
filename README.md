@@ -1,6 +1,6 @@
 # 💫 About Me:
-https://muharremtozan.github.io/
-🎮 Learning Unity<br>💀 Creating Portfolio Website
+https://muharremtozan.github.io
+<br>🎮 Learning Unity<br>💀 Creating Portfolio Website
 
 
 ## 🌐 Socials:
